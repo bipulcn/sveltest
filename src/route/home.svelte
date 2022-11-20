@@ -1,0 +1,1 @@
+<div class="text-center text-4xl p-5 font-3">This is home page</div>
